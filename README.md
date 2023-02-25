@@ -44,7 +44,34 @@ Lista de acividades por temas:
 
 ## Mecánica
 
-- [Teoría de errores](https://lalgfisica.readthedocs.io/es/latest/Mechanics/005_Errors.html)
+1. [Teoría de errores](https://lalgfisica.readthedocs.io/es/latest/Mechanics/005_Errors.html)
+2. [Aceleración de la gravedad](https://lalgfisica.readthedocs.io/es/latest/Mechanics/010_Gravity.html)
+3. [Tiempo de vaciado de un recipiente](https://lalgfisica.readthedocs.io/es/latest/Mechanics/015_Discharging_Tank.html)
+4. [+Resorte de juguete (Slinky)](https://lalgfisica.readthedocs.io/es/latest/Mechanics/020_Slinky.html)
+5. [Versión moderna del teorema II de Galileo](https://lalgfisica.readthedocs.io/es/latest/Mechanics/030_GalileoII.html)
+6. [Versión moderna del teorema IV de Galileo](https://lalgfisica.readthedocs.io/es/latest/Mechanics/035_GalileoIV.html)
+7. [Versión moderna del teorema V de Galileo](https://lalgfisica.readthedocs.io/es/latest/Mechanics/040_GalileoV.html#)
+8. [Movimiento rectilíneo con aceleración constante](https://lalgfisica.readthedocs.io/es/latest/Mechanics/045_Mov_1D_a_constante.html)
+9. [Cinemática en una dimensión: movimiento por tramos](https://lalgfisica.readthedocs.io/es/latest/Mechanics/050_Kinematic_1D_Tramos.html)
+10. [Movimiento en 2d: Tiro parabólico](https://lalgfisica.readthedocs.io/es/latest/Mechanics/055_Mov_2D_Tiro_Parabolico.html)
+11. [Centro de masa](https://lalgfisica.readthedocs.io/es/latest/Mechanics/060_Centro_de_Masa.html)
+12. [Choques en una dimensión](https://lalgfisica.readthedocs.io/es/latest/Mechanics/065_Choques_1D.html)
+13. [Choques en dos dimensiones](https://lalgfisica.readthedocs.io/es/latest/Mechanics/066_Choques_2D.html)
+14. [Impulso-Momentum](https://lalgfisica.readthedocs.io/es/latest/Mechanics/070_Momentum_Impulse.html)
+15. [+Segunda ley de Newton](https://lalgfisica.readthedocs.io/es/latest/Mechanics/075_NewtonC.html)
+16. [Segunda ley de Newton](https://lalgfisica.readthedocs.io/es/latest/Mechanics/080_Newton_1.html#)
+17. [+Coeficiente de rozamiento cinemático](https://lalgfisica.readthedocs.io/es/latest/Mechanics/090_Coeficiente_Rozamiento_Cinematico.html#)
+18. [Trabajo y energía cinética](https://lalgfisica.readthedocs.io/es/latest/Mechanics/110_Trabajo_Energia.html)
+19. [+Conservación de la energía Mecánica](https://lalgfisica.readthedocs.io/es/latest/Mechanics/115_Energy_Conservation.html)
+20. [+Coeficiente de restitución](https://lalgfisica.readthedocs.io/es/latest/Mechanics/120_Coeficiente_Restitucion.html)
+21. [+Momento de inercia de un disco](https://lalgfisica.readthedocs.io/es/latest/Mechanics/130_Moment_Inertia.html)
+22. [Dinámica rotacional: Rodadura y deslizamiento](https://lalgfisica.readthedocs.io/es/latest/Mechanics/135_Rotation_Sliding.html)
+23. [+Energía cinética rotacional](https://lalgfisica.readthedocs.io/es/latest/Mechanics/140_Rotational_Energy.html)
+24. [+Coeficientes de rozamiento cinético y estático](https://lalgfisica.readthedocs.io/es/latest/Mechanics/145_Rotation_Kinetic_Static_Coeff.html)
+25. [+Principio de Arquimedes](https://lalgfisica.readthedocs.io/es/latest/Mechanics/150_Arquimedes.html)
+26. [Fluidos en un tubo en forma de U](https://lalgfisica.readthedocs.io/es/latest/Mechanics/160_Fluids_Tube.html)
+27. [Sifón](https://lalgfisica.readthedocs.io/es/latest/Mechanics/170_Sifon.html)
+
 
 ## Electromagnetismo
 ## Moderna
