@@ -38,7 +38,8 @@ Las actividades propuestas tienen varias finalidades:
   
 Las actividades propuestas se pueden utilizar como material de apoyo en los diferentes cursos de física bajo la supervisión del docente,
 no obstante, es responsabilidad del mismo realizar la implementación pedagógica en cada una de las actividades propuestas, 
-pues estas constituyen solamente una guı́a de trabajo y punto de partida en el desarrollo de las actividades dirigidas a nuestros estudiantes.
+pues estas constituyen solamente una guı́a de trabajo y punto de partida para el desarrollo de las mismas.
+
 
 Lista de acividades por temas:
 
