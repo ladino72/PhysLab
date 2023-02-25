@@ -18,7 +18,7 @@ Así mismo, se argumenta que los usos de simuladores podrı́an colaborar con el
 con la conceptualización del fenómeno.
 
 Teniendo en cuenta lo anterior el autor ha propuesto una serie de actividades en las que en su mayoría  hacen uso de los 
-recursos existentes en la red como son los simuladores gratuitos. Tamabiéns se proponen otras actividades en menor número que 
+recursos existentes en la red como son los simuladores gratuitos. También se proponen otras actividades en menor número que 
 utilizan implementos de fácil consecución,  disponibles usualmente en cualquier laboratorio destinado a la enseñanza de la física básica.
 
 Las actividades propuestas tienen varias finalidades: 
