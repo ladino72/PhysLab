@@ -36,14 +36,13 @@ Las actividades propuestas tienen varias finalidades:
     - Argumentación verbal y escrita funadamentada en las ideas y modelos científicos.
   - Capacidad de valorar la calidad de una información en función de los procedimientos utilizados para generarla.
   
-Las actividades propuestas se pueden utilizar como material de apoyo en los diferentes cursos de física bajo la supervisión del docente,
-no obstante, es responsabilidad del mismo realizar la implementación pedagógica en cada una de las actividades propuestas, 
-pues estas constituyen solamente una guı́a de trabajo y punto de partida para el desarrollo de las mismas.
+Las actividades propuestas se pueden utilizar para la construcción de un curso en si, o como material de apoyo en  diferentes cursos 
+de física. Es de vital importancia que el desarrollo de las activides estén siempre bajo la orientación y apoyo del docente. 
 
 
-Lista de acividades por temas:
+## Lista de acividades por temas:
 
-## Mecánica
+# Mecánica
 
 1. [Teoría de errores](https://lalgfisica.readthedocs.io/es/latest/Mechanics/005_Errors.html)
 2. [Aceleración de la gravedad](https://lalgfisica.readthedocs.io/es/latest/Mechanics/010_Gravity.html)
@@ -74,7 +73,8 @@ Lista de acividades por temas:
 27. [Sifón](https://lalgfisica.readthedocs.io/es/latest/Mechanics/170_Sifon.html)
 
 
-## Electromagnetismo
+# Electromagnetismo
+
 1. [+El termistor](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/010_Thermistor.html)
 2. [Ley de Coulomb](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/020_Coulomb_Law.html)
 3. [+Generador de Van de Graaff](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/025_Van_de_Graff.html)
@@ -98,7 +98,7 @@ Lista de acividades por temas:
 21. [Ley de Faraday: Generador eléctrico](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/160_Faraday.html)
 22. [+Motor de corriente continua y dinamo](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/170_Motor_DC.html)
 
-## Oscilaciones y Termodinámica
+# Oscilaciones y Termodinámica
 
 1. [Movimiento armónico simple: Peńdulo simple](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/05_SHM_SimplePendulum.html)
 2. [Movimiento armónico simple: Sistema masa resorte](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/10_SHM_SpringMass.html)
