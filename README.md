@@ -3,7 +3,7 @@
 ## Introducción
 
 Este sitio presenta un conjunto de actividades virtuales y reales (+) de laboratorio para los cursos básicos de fı́sica mecánica, 
-electromagnetismo, calor, ondas y física moderna.
+electromagnetismo, calor, ondas y termodinámica.
 Para las actividades virtuales se utilizan simuladores on line. 
 Existen autores que discuten las ventajas y desventajas de su uso en la enseñanza de una disciplina, pero en términos 
 generales aconsejan el uso de estas herramientas cuando posibiliten visualizar aspectos de un fenómeno fı́sico que difı́cilmente 
@@ -74,5 +74,54 @@ Lista de acividades por temas:
 
 
 ## Electromagnetismo
-## Moderna
+1. [+El termistor](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/010_Thermistor.html)
+2. [Ley de Coulomb](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/020_Coulomb_Law.html)
+3. [+Generador de Van de Graaff](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/025_Van_de_Graff.html)
+4. [Campo eléctrico, potencial eléctrico y lineas equipotenciales](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/030_EV_Dipole.html)
+5. [Movimiento de un electrón en un campo eléctrico](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/040_Move_q_E_1D.html)
+6. [ Moviemiento den 2D de una carga eléctrica en un campo eléctrico constante](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/050_Move_q_E_2D.html)
+7. [Experimento de Millikan](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/060_Millikan_Experiment.html)
+8. [Movimiento de partículas en un campo magnético](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/062_Move_q_B.html)
+9. [+Equipotenciales](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/065_Equipotentials.html)
+10. [Condensador de placas paralelas](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/070_Capacitance.html)
+11. [+Fuerza entre placas de un condensador de placas paralelas](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/075_Force_Plates.html)
+12. [Procesos de redistribución de carga eléctrica en condensadores](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/080_Charge_Discharge.html)
+13. [Resistividad: Ley de Ohm](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/090_Resistivity.html)
+14. [+Resistencia de un conductor como función de la temperatura](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/095_Resistance_Temperature.html)
+15. [Leyes de Kircchoff](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/100_Kircchoff_Laws.html)
+16. [Circuito RC](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/110_RC_Circuit.html)
+17. [+Permeabilidad magnética del aire](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/120_Permeability.html)
+18. [Magnetización de un imán](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/130_Magnetization.html)
+19. [Campo magnético creado por un conductor recto](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/140_B_Straight_Wire.html)
+20. [ Campo magnético creado por una espira circular con corriente directa y alterna](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/150_B_Loop.html)
+21. [Ley de Faraday: Generador eléctrico](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/160_Faraday.html)
+22. [+Motor de corriente continua y dinamo](https://lalgfisica.readthedocs.io/es/latest/Electromagnetismo/170_Motor_DC.html)
+
+## Oscilaciones y Termodinámica
+
+1. [Movimiento armónico simple: Peńdulo simple](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/05_SHM_SimplePendulum.html)
+2. [Movimiento armónico simple: Sistema masa resorte](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/10_SHM_SpringMass.html)
+3. [+Péndulo físico o compuesto](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/11_Physical_Pendulum.html)
+4. [Oscilaciones eléctricas amortiguadas](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/15_Damped_Oscillations.html)
+5. [Oscilaciones forzadas en el sistema masa resorte](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/20_Forced_Oscillations.html)
+6. [+Oscilaciones forzadas en el circuito RLC](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/22_Forced_Oscillations_RLC.html)
+7. [Ondas estacionarias en una cuerda](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/25_Standing_Waves.html)
+8. [Tubos resonantes](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/30_Tubos_Resonantes.html)
+9. [+Pulsaciones en ondas sonoras](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/35_Beats.html)
+10. [Teorema de Fourier](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/40_Fourier.html)
+11. [Ley de Snell](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/41_Snell.html)
+12. [Ley de Cauchy](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/42_Cauchy_Law.html)
+13. [Difracción de la luz](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/46_Diffraction_1_Slit.html)
+14. [Ley de Malus](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/48_Malus.html)
+15. [Ecuaciones de Fresnel](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/49_Fresnel_Equations.html)
+16. [Calor específico de un líquido](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/50_Specific_Heat.html)
+17. [Transferencia de calor: conductividad térmica, calor específico, calorimetria](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/55_Heat_Transfer.html)
+18. [Gas ideal](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/60_Ideal_Gas.html)
+19. [Distribución de velocidades de Maxwell](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/65_Maxwell_Distribution.html)
+20. [Equivalente mecánico del calor](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/70_Heat_Mechanical_Equivalent.html)
+21. [Radiación del cuerpo negro: Ley de radiación de Planck](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/75_Blackbody.html)
+22. [Efecto fotoeléctrico](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/80_PhotoElectricEffect.html)
+23. [+Temperatura del filamento de una bombilla](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/85_Filament_Temperature.html)
+24. [+Determinación de la constante de Stefan-Boltzmann](https://lalgfisica.readthedocs.io/es/latest/Oscilaciones_Termo/90_Stefan_Boltzmann.html)
+
 
