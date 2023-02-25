@@ -18,13 +18,34 @@ Así mismo, se argumenta que los usos de simuladores podrı́an colaborar con el
 con la conceptualización del fenómeno.
 
 Teniendo en cuenta lo anterior el autor ha propuesto una serie de actividades en las que en su mayoría  hacen uso de los 
-recursos existentes en la red como son los simuladores gratuitos. Tamabiéns se proponen otras actividades en menor número en las  que se utilizan implementos de fácil consecución,  disponibles usualmente en cualquier laboratorio destinado a la enseñanza de la física básica.
+recursos existentes en la red como son los simuladores gratuitos. Tamabiéns se proponen otras actividades en menor número que 
+utilizan implementos de fácil consecución,  disponibles usualmente en cualquier laboratorio destinado a la enseñanza de la física básica.
 
-Las actividades propuestas aquí tienen varias finalidades: involucrar a cada estudiante en experiencias significativas a través de la simulación, contribuir al desarrollo de competencias cientı́ficas y dominar conceptos básicos de la fı́sica. Ası́, las actividades tienen un común denominador, el cual implica el manejo de información en forma de tablas y gráficos, la determinación de relaciones entre las diferentes variables que gobiernan el fenómeno estudiado mediante el uso de técnicas matemáticas como son la linealización de funciones, cambios de variable apropiados y hojas de cálculo como Excel. Algunas actividades requieren la aplicación de la teorı́a de errores, lo cual es esencial para comprender qué conclusiones válidas pueden deducirse, a pesar de la incertidumbre de los datos.
+Las actividades propuestas tienen varias finalidades: 
 
-Se enfatiza que es responsabilidad del docente realizar la implementación pedagógica de cada una de las actividades propuestas, pues estas constituyen solamente una guı́a de trabajo y punto de partida en el desarrollo de las actividades dirigidas a nuestros estudiantes.
+- Afianzar los conceptos fundamentales de la fı́sica básica.
+- Involucrar a cada estudiante en experiencias significativas donde ellos sean los protagonistas.
+- Contribuir al desarrollo de competencias cientı́ficas:
+  - Capacidad de utilizar el conocimiento cintífico para escribir, explicar y predecir fenómenos naturales. 
+  - Capacidad de utilizar los conceptos y modelos científicos para analizar problemas:
+    - Manejo de modelos y técnicas para determinar relaciones entre las diferentes variables que gobiernan un determinado fenómeno.
+  - Capacidad de pocesar la información obtenida.
+    - Manejo de información, sus diferentes formas de representación y el uso de diferentes herramientas tecnológicas.
+  - Capacidad de formular conclusiones fundamentadas:
+    - Reconocimiento de las limitaciones de los modelos y la aplicación de la teorı́a de errores.
+    - Argumentación verbal y escrita funadamentada en las ideas y modelos científicos.
+  - Capacidad de valorar la calidad de una información en función de los procedimientos utilizados para generarla.
+  
+Las actividades propuestas se pueden utilizar como material de apoyo en los diferentes cursos de física bajo la supervisión del docente,
+no obstante, es responsabilidad del mismo realizar la implementación pedagógica en cada una de las actividades propuestas, 
+pues estas constituyen solamente una guı́a de trabajo y punto de partida en el desarrollo de las actividades dirigidas a nuestros estudiantes.
+
+Lista de acividades por temas:
+
 ## Mecánica
-### [Errores](https://github.com/ladino72/PhysLab/blob/main/Mec%C3%A1nica/Errores.md)
+
+- [Teoría de errores](https://lalgfisica.readthedocs.io/es/latest/Mechanics/005_Errors.html)
+
 ## Electromagnetismo
 ## Moderna
 
